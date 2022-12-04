@@ -82,7 +82,7 @@ text-decoration: none;
 /* Home Section */
 .home{
     display: flex;
-    background: url("images/banner-6.jpg")repeat center;
+    background: url("images/banner.JPG")repeat center;
     height: 100vh;
     color: red;
     min-height: 500px;
