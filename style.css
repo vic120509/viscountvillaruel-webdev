@@ -82,7 +82,7 @@ text-decoration: none;
 /* Home Section */
 .home{
     display: flex;
-    background: url("images/banner-6.JPG")repeat center;
+    background: url("images/banner-6.jpg")repeat center;
     height: 100vh;
     color: red;
     min-height: 500px;
@@ -127,7 +127,7 @@ section{
 }
 .about {
     display: flex;
-    background: url("images/banner-6.jpg") repeat center;
+    background: url("images/banner-5.jpg") repeat center;
     background-size: cover;
     background-attachment: fixed;
     font-style: italic;
